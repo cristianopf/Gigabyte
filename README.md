@@ -13,6 +13,7 @@ Conhecimentos:
 
 Postgre SQL (DBA)
 JavaScript (Backend)
+Phyton (Dev)
 
 Contato:
 
