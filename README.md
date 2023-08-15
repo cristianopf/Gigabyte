@@ -1,5 +1,5 @@
 # Gigabyte
-Olá! Seja bem vindo ao meu perfil. Meu nome é Cristiano Pereira Fumaça
+Olá! Seja bem vindo ao meu perfil.  Meu nome é Cristiano Pereira Fumaça
 Sou aluno do Serviço Nacional de Aprendizagem Comercial/Goiás (Senac/GO).
 
 
@@ -11,6 +11,7 @@ Desenvolvedor Frontend - Cursando
 
 Conhecimentos: 
 
+Microsoft Power BI
 Postgre SQL (DBA)
 JavaScript (Backend)
 Python (Dev)
